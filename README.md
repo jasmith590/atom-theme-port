@@ -1,4 +1,4 @@
-# Atom Theme Port - A PhpStorm and Webstorm theme
+# Atom Theme Port - A PhpStorm and WebStorm theme
 
 ## Install
 
