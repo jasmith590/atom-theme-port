@@ -6,7 +6,7 @@
 2. Go to `File -> Import Settings` select the directory and click Choose.
 3. Check `Color schemes` and press `Ok`.
 4. Restart PhpStorm/Webstorm.
-5. Go to `PhpStorm/Webstorm -> Preferences -> Editor -> Colors & Fonts` and select the new color theme `brogrammer`.
+5. Go to `PhpStorm/Webstorm -> Preferences -> Editor -> Colors & Fonts` and select the new color theme `Atom Port`.
 
 
 ### Other Languages Supported:
